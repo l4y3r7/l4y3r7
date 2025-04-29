@@ -1,6 +1,6 @@
 ## Olá! Sou o Luan!
  <div>
-  <a href="https://github.com/Luanpablo100">
+  <a href="https://github.com/l3y3r7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanpablo100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanpablo100&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -18,7 +18,6 @@
   ##
  
 <div>
-  <a href = "mailto:it.luan.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luanoliveira27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Luanpablo100/EduardoAlphonse/blob/output/github-contribution-grid-snake.svg)
