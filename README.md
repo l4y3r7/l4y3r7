@@ -21,5 +21,6 @@
   <a href="https://www.linkedin.com/in/luanoliveira27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Luanpablo100/EduardoAlphonse/blob/output/github-contribution-grid-snake.svg)
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Luanpablo100.png" alt="TryHackMe">
+  #<img src="https://tryhackme-badges.s3.amazonaws.com/Luanpablo100.png" alt="TryHackMe">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1760299" style='border:none;'></iframe>
 </div>
