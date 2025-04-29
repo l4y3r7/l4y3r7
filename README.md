@@ -6,13 +6,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <!-- <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luan-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Luan-yoda" src="https://avatars.githubusercontent.com/u/62774555?v=4" width="140px">
+ -->
 </div>
   
   ##
@@ -21,8 +21,6 @@
   <a href="https://www.linkedin.com/in/luanoliveira27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Luanpablo100/EduardoAlphonse/blob/output/github-contribution-grid-snake.svg)
-  <!--<img src="https://tryhackme-badges.s3.amazonaws.com/Luanpablo100.png" alt="TryHackMe">
-  # <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1760299" style='border:none;'></iframe> -->
   <img src="https://tryhackme-badges.s3.amazonaws.com/l4y3r7.png" alt="Your Image Badge" />
 
 </div>
